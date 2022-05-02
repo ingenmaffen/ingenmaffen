@@ -1,28 +1,8 @@
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.1.1/css/brands.css"/>
+<link rel="stylesheet" type="text/css" media="all" href="https://use.fontawesome.com/releases/v6.1.1/css/all.css" />
 
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.1.1/css/all.css"/>
+<link rel="stylesheet"  type="text/css" media="all" href="all.css"/>
 
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.1.1/css/v4-shims.css"/>
-
-<style>
-span {
-    margin-right: 10px;
-    font-size: 1.5rem;
-}
-i {
-    margin-left: 10px;
-}
-
-.text {
-    font-size: 1rem;
-    vertical-align: top;
-    margin-right: 5px;
-}
-
-.fa-dev {
-    margin: 0;
-}
-</style>
+<link rel="stylesheet" href="index.css"/>
 
 ### <span class="fa-solid fa-terminal" title="Terminal"></span>Hello there
 

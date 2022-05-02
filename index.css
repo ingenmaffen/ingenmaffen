@@ -1,0 +1,17 @@
+span {
+    margin-right: 10px;
+    font-size: 1.5rem;
+}
+i {
+    margin-left: 10px;
+}
+
+.text {
+    font-size: 1rem;
+    vertical-align: top;
+    margin-right: 5px;
+}
+
+.fa-dev {
+    margin: 0;
+}
