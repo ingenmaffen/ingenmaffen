@@ -1,50 +1,43 @@
-<link rel="stylesheet" type="text/css" media="all" href="https://use.fontawesome.com/releases/v6.1.1/css/all.css" />
+### <img src="assets/font-awesome/terminal-solid.svg" width="16"/> Hello there
 
-<link rel="stylesheet"  type="text/css" media="all" href="all.css"/>
-
-<link rel="stylesheet" href="index.css"/>
-
-### <span class="fa-solid fa-terminal" title="Terminal"></span>Hello there
-
-<span class="text">I'm Robert and I love playing and making video games;</span><span class="fa-brands fa-dev" title="software developer"></span> <span class="text">since 2016.</span> 
-
+I'm Robert and I love playing and making video games. 🎮
 ## Socials
 
-[<span class="fa-brands fa-linkedin" title="LinkedIn"></span> <span class="text">LinkedIn</span>](https://hu.linkedin.com/in/ingenmaffen)
+[<img src="assets/font-awesome/linkedin-brands.svg" height="14"/> LinkedIn](https://hu.linkedin.com/in/ingenmaffen)
 
-[<span class="fa-brands fa-github" title="Github"></span> <span class="text">Github</span>](https://github.com/ingenmaffen)
+[<img src="assets/font-awesome/bitbucket-brands.svg" height="14"/> Bitbucket](https://bitbucket.org/ingenmaffen/)
 
-[<span class="fa-brands fa-bitbucket" title="Bitbucket"></span> <span class="text">Bitbucket</span>](https://bitbucket.org/ingenmaffen/)
+[<img src="assets/font-awesome/github-square-brands.svg" height="14"/> Github](https://github.com/ingenmaffen)
 
 ## Technologies I'm familiar with
 
-<span class="fa-brands fa-angular" title="Angular"></span>
-<span class="fa-brands fa-js-square" title="JavaScript"></span>
-<span class="fa-brands fa-git-alt" title="Git"></span>
-<span class="fa-brands fa-html5" title="HTML"></span>
-<span class="fa-brands fa-css3-alt" title="CSS"></span>
-<span class="fa-brands fa-sass" title="SASS/SCSS"></span>
-<span class="fa-brands fa-ubuntu" title="Linux"></span>
-<span class="fa-brands fa-microsoft" title="Windows"></span>
-<span class="fa-brands fa-node" title="Node.js"></span>
-<span class="fa-brands fa-npm" title="npm"></span>
+<img src="assets/font-awesome/angular-brands.svg" height="22" title="Angular" />
+<img src="assets/font-awesome/js-square-brands.svg" height="22" title="JavaScript" />
+<img src="assets/font-awesome/git-alt-brands.svg" height="22" title="Git" />
+<img src="assets/font-awesome/html5-brands.svg" height="22" title="HTML" />
+<img src="assets/font-awesome/css3-alt-brands.svg" height="22" title="CSS" />
+<img src="assets/font-awesome/sass-brands.svg" height="22" title="SASS/SCSS" />
+<img src="assets/font-awesome/ubuntu-brands.svg" height="22" title="Linux" />
+<img src="assets/font-awesome/windows-brands.svg" height="22" title="Windows" />
+<img src="assets/font-awesome/node-brands.svg" height="22" title="Node.js" />
+<img src="assets/font-awesome/npm-brands.svg" height="22" title="npm" />
 
 ### And some that I fairly know
 
-<span class="fa-brands fa-python" title="Python"></span>
-<span class="fa-brands fa-docker" title="Docker"></span>
-<span class="fa-brands fa-react" title="React"></span>
-<span class="fa-brands fa-android" title="Android"></span>
+<img src="assets/font-awesome/python-brands.svg" height="22" title="Python" />
+<img src="assets/font-awesome/docker-brands.svg" height="22" title="Docker" />
+<img src="assets/font-awesome/react-brands.svg" height="22" title="React" />
+<img src="assets/font-awesome/android-brands.svg" height="22" title="Android" />
 
-## Some stuff that I made <span class="fa-solid fa-gamepad" title="Games"></span> 
+## Some stuff that I made <img src="assets/font-awesome/gamepad-solid.svg" height="20" title="Games" />
 
 
-<span class="fa-solid fa-chess" title="Hexagonal Chess"></span> [Hexagonal Chess](http://hexagonal-chess.herokuapp.com/) [<i class="fa-solid fa-code" title="Code"></i>](https://github.com/ingenmaffen/hexagonal-chess)
+[<img src="assets/font-awesome/chess-solid.svg" height="14" title="Hexagonal Chess" /> Hexagonal Chess](http://hexagonal-chess.herokuapp.com/) [<img src="assets/font-awesome/code-solid.svg" height="14" title="Code" />](https://github.com/ingenmaffen/hexagonal-chess)
 
-<span class="fa-solid fa-cube" title="4am Hungarian Rummy"></span> [4am Hungarian Rummy](http://rummy-4am.herokuapp.com/) [<i class="fa-solid fa-code" title="Code"></i>](https://bitbucket.org/ingenmaffen/4am-hungarian-rummy/src/master/)
+[🃏 4am Hungarian Rummy](http://rummy-4am.herokuapp.com/) [<img src="assets/font-awesome/code-solid.svg" height="14" title="Code" />](https://bitbucket.org/ingenmaffen/4am-hungarian-rummy/src/master/)
 
-<span class="fa-solid fa-chess-board" title="Mills 4am"></span> [Mills 4am](https://mills-4am.web.app/) [<i class="fa-solid fa-code" title="Code"></i>](https://github.com/ingenmaffen/random-projects/tree/main/mills)
+[<img src="assets/font-awesome/chess-board-solid.svg" height="14" title="Mills 4am" /> Mills 4am](https://mills-4am.web.app/) [<img src="assets/font-awesome/code-solid.svg" height="14" title="Code" />](https://github.com/ingenmaffen/random-projects/tree/main/mills)
 
-<span class="fa-solid fa-earth" title="Hello, World!"></span> [Hello, World!](https://github.com/ingenmaffen/hello-world)
+[<img src="assets/font-awesome/earth-europe-solid.svg" height="14" title="Hello, World!" /> Hello, World!](https://github.com/ingenmaffen/hello-world)
 
-<span class="fa-solid fa-person-through-window" title="OldSchool Labyrinth"></span> [OldSchool Labyrinth](https://gamejolt.com/games/oldschool-labyrinth/115943) 
+[<img src="assets/font-awesome/person-through-window-solid.svg" height="14" title="OldSchool Labyrinth" /> OldSchool Labyrinth](https://gamejolt.com/games/oldschool-labyrinth/115943) 
