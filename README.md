@@ -1,13 +1,18 @@
-### <img src="assets/font-awesome/terminal-solid.svg" width="16"/> Hello there
+## <img src="assets/font-awesome/terminal-solid.svg" width="20"/> Hello there...
 
-I'm Robert and I love playing and making video games. 🎮
+... and welcome to my GitHub page.
+
+I'm Robert and I love playing and making video games. 🎮 Most certainly I currently am working on at least one game.
+
+I've been coding since 2011 and working as an Angular developer since 2016. 
+
 ## Socials
 
 [<img src="assets/font-awesome/linkedin-brands.svg" height="14"/> LinkedIn](https://hu.linkedin.com/in/ingenmaffen)
 
 [<img src="assets/font-awesome/bitbucket-brands.svg" height="14"/> Bitbucket](https://bitbucket.org/ingenmaffen/)
 
-[<img src="assets/font-awesome/github-square-brands.svg" height="14"/> Github](https://github.com/ingenmaffen)
+[<img src="assets/font-awesome/github-brands.svg" height="14"/> Github](https://github.com/ingenmaffen)
 
 ## Technologies I'm familiar with
 
@@ -20,6 +25,7 @@ I'm Robert and I love playing and making video games. 🎮
 <span><img src="assets/font-awesome/ubuntu-brands.svg" height="22" title="Linux" /></span>
 <span><img src="assets/font-awesome/windows-brands.svg" height="22" title="Windows" /></span>
 <span><img src="assets/font-awesome/node-brands.svg" height="22" title="Node.js" /></span>
+<span><img src="assets/other/electron.svg" height="22" title="Electron" /></span>
 <span><img src="assets/font-awesome/npm-brands.svg" height="22" title="npm" /></span>
 
 ### And some that I fairly know
@@ -28,6 +34,12 @@ I'm Robert and I love playing and making video games. 🎮
 <span><img src="assets/font-awesome/docker-brands.svg" height="22" title="Docker" /></span>
 <span><img src="assets/font-awesome/react-brands.svg" height="22" title="React" /></span>
 <span><img src="assets/font-awesome/android-brands.svg" height="22" title="Android" /></span>
+
+### And some that I would love to learn
+
+<span><img src="assets/other/vulkan-logo.svg" height="22" title="Vulkan" /></span>
+<span><img src="assets/font-awesome/rust-brands.svg" height="22" title="Rust" /></span>
+<span><img src="assets/font-awesome/golang-brands.svg" height="22" title="Go" /></span>
 
 ## Some stuff that I made <img src="assets/font-awesome/gamepad-solid.svg" height="20" title="Games" />
 
