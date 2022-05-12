@@ -37,8 +37,9 @@ I've been coding since 2011 and working as an Angular developer since 2016.
 
 ### And some that I would love to learn
 
-<span><img src="assets/other/vulkan-logo.svg" height="22" title="Vulkan" /></span>
 <span><img src="assets/other/tensorflow.svg" height="22" title="TensorFlow" /></span>
+<span><img src="assets/other/kotlin.svg" height="22" title="Kotlin" /></span>
+<span><img src="assets/other/vulkan-logo.svg" height="22" title="Vulkan" /></span>
 <span><img src="assets/font-awesome/rust-brands.svg" height="22" title="Rust" /></span>
 <span><img src="assets/font-awesome/golang-brands.svg" height="22" title="Go" /></span>
 
