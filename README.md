@@ -4,7 +4,7 @@
 
 I'm Robert and I love playing and making video games. 🎮 Most certainly I currently am working on at least one game.
 
-I've been coding since 2011 and working as an Angular developer since 2016. 
+I've been coding since 2011 and working as an Angular developer since 2016.
 
 ## Socials
 
@@ -45,13 +45,12 @@ I've been coding since 2011 and working as an Angular developer since 2016.
 
 ## Some stuff that I made <img src="assets/font-awesome/gamepad-solid.svg" height="20" title="Games" />
 
+[<img src="assets/font-awesome/chess-solid.svg" height="14" title="Hexagonal Chess" /> Hexagonal Chess](https://4am-hungarian-rummy.fly.dev/) [<img src="assets/font-awesome/code-solid.svg" height="14" title="Code" />](https://github.com/ingenmaffen/hexagonal-chess)
 
-[<img src="assets/font-awesome/chess-solid.svg" height="14" title="Hexagonal Chess" /> Hexagonal Chess](http://hexagonal-chess.herokuapp.com/) [<img src="assets/font-awesome/code-solid.svg" height="14" title="Code" />](https://github.com/ingenmaffen/hexagonal-chess)
-
-[<img src="assets/font-awesome/cube-solid.svg" height="14" title="4am Hungarian Rummy" /> 4am Hungarian Rummy](http://rummy-4am.herokuapp.com/) [<img src="assets/font-awesome/code-solid.svg" height="14" title="Code" />](https://bitbucket.org/ingenmaffen/4am-hungarian-rummy/src/master/)
+[<img src="assets/font-awesome/cube-solid.svg" height="14" title="4am Hungarian Rummy" /> 4am Hungarian Rummy](https://hexagonal-chess.fly.dev/) [<img src="assets/font-awesome/code-solid.svg" height="14" title="Code" />](https://bitbucket.org/ingenmaffen/4am-hungarian-rummy/src/master/)
 
 [<img src="assets/font-awesome/chess-board-solid.svg" height="14" title="Mills 4am" /> Mills 4am](https://mills-4am.web.app/) [<img src="assets/font-awesome/code-solid.svg" height="14" title="Code" />](https://github.com/ingenmaffen/random-projects/tree/main/mills)
 
 [<img src="assets/font-awesome/earth-europe-solid.svg" height="14" title="Hello, World!" /> Hello, World!](https://github.com/ingenmaffen/hello-world)
 
-[<img src="assets/font-awesome/person-through-window-solid.svg" height="14" title="OldSchool Labyrinth" /> OldSchool Labyrinth](https://gamejolt.com/games/oldschool-labyrinth/115943) 
+[<img src="assets/font-awesome/person-through-window-solid.svg" height="14" title="OldSchool Labyrinth" /> OldSchool Labyrinth](https://gamejolt.com/games/oldschool-labyrinth/115943)
